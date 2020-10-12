@@ -1,0 +1,23 @@
+.tab1{
+    display: inline-block;
+    margin-left: 4em;
+}
+
+.tab2{
+    display: inline-block;
+    margin-left: 8em;
+}
+
+.tab3{
+    display: inline-block;
+    margin-left: 12em;
+}
+
+.tab4{
+    display: inline-block;
+    margin_left: 16em;
+}
+
+.link{
+    text-decoration: none;
+}
